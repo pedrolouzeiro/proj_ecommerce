@@ -62,7 +62,7 @@ Abordar os desafios descritos na carta recebida através de técnicas avançadas
 - Algoritmos de classificação para prever churn de clientes.
 - Algoritmos de regras de associação para identificar produtos frequentemente comprados juntos.
 
-## Resultados e Ações Recomendadas
+## Resultados
 - **Previsão de faturamento**: Melhor planejamento de estoque e operações.
 - **Otimização de estoque**: Identificação dos produtos mais vendidos e suas sazonalidades.
 - **Segmentação de clientes**: Sistema de pontuação baseado em recência, frequência e valor gasto (RFM).
