@@ -80,3 +80,4 @@ Captar dados para as seguintes análises adicionais:
 ## Conclusão
 O projeto E-commerce Solutions forneceu insights valiosos e soluções práticas para os desafios enfrentados pela ShopGlobal, melhorando significativamente a operação e a estratégia da empresa através da aplicação de ciência de dados.
 
+[Link do Notebook](https://github.com/pedrolouzeiro/proj_ecommerce/blob/main/Projeto/Proj_ecommerce_final.ipynb)
