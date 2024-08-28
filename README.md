@@ -67,7 +67,7 @@ Abordar os desafios descritos na carta recebida através de técnicas avançadas
 - **Otimização de estoque**: Identificação dos produtos mais vendidos e suas sazonalidades.
 - **Segmentação de clientes**: Sistema de pontuação baseado em recência, frequência e valor gasto (RFM).
 - **Previsão de churn**: Identificação de clientes com alta probabilidade de churn e implementação de ações preventivas.
-- **Recomendação de produtos**: Utilização de regras de associação para promover pacotes ou promoções de produtos frequentemente comprados juntos.
+- **Recomendação de produtos**: Utilização de regras de associação para promover pacotes ou promoções de produtos frequentemente comprados juntos e sistemas de recomendação baseados em comportamento de usuários semelhantes.
 
 ## Próximos Passos
 Captar dados para as seguintes análises adicionais:
@@ -75,7 +75,6 @@ Captar dados para as seguintes análises adicionais:
 - Análise de Tempo de Navegação e Conversão.
 - Personalização de Experiência.
 - Análise de Produtos com Alta Devolução.
-- Desenvolvimento de sistemas de recomendação baseados em comportamento de usuários semelhantes.
 
 ## Conclusão
 O projeto E-commerce Solutions forneceu insights valiosos e soluções práticas para os desafios enfrentados pela ShopGlobal, melhorando significativamente a operação e a estratégia da empresa através da aplicação de ciência de dados.
